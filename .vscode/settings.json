@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.cwd": "${workspaceFolder}/task-flow"
+  "terminal.integrated.cwd": "${workspaceFolder}/task-flow",
+  "terminal.integrated.defaultProfile.linux": ""
 }
